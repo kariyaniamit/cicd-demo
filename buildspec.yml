@@ -7,7 +7,6 @@ phases:
   build:
     commands:
       - echo "Building your HTML file"
-      - npm run build
 artifacts:
   files:
     - '**/*.*'
